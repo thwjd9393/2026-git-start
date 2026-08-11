@@ -31,6 +31,7 @@ Git의 협업 과정을 실습했다.
     💻 작업자 A   💻 작업자 B
     로컬 저장소   로컬 저장소
 
+```
 
 ```mermaid
 sequenceDiagram
